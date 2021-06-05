@@ -1,72 +1,71 @@
-
 #main {
-    margin: 0;
-    padding: 0;
-    width: 100%;
-    height: 100%;
-    background-color: whitesmoke;
+  margin-top: 2em;
+  background-color: whitesmoke;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 #title {
-    margin-top: 2em;
-    padding-top: 3em;
-    text-align: center;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: #0c0b0bda;
+  padding-top: 3em;
+  text-align: center;
+  color: #0c0b0bda;
 }
-h1 {
-    margin: 0;
-    font-weight: bolder;
-    font-size: 40px;
-    letter-spacing: 2px;
-    text-shadow: 2px 0;
+#title-heading {
+  margin: 0;
+  font-weight: bolder;
+  font-size: 40px;
+  letter-spacing: 2px;
+  text-shadow: 2px 0;
 }
 #img-div {
-    text-align: center;
-    width: 97%;
-    margin: auto;
-    background-color: white;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: center;
+  width: 97%;
+  margin: auto;
+  background-color: white;
 }
 #image {
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin: auto;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: auto;
 }
-figcaption {
-    font-size: 14.5px;
-    padding: 1em 0 1em;
-    color: #0c0b0bda;
+#img-caption {
+  font-size: 14.5px;
+  padding: 1em 0 1em;
+  color: #0c0b0bda;
 }
 #tribute-info {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: #0c0b0bda;
+  color: #0c0b0bda;
 }
-h3:first-child {
-    text-align: center;
-    margin-top: 3em;
-    margin-bottom: 2.5em;
-    font-weight: bold;
+#tribute-heading {
+  text-align: center;
+  font-weight: bold;
+  margin-top: 3em;
+  margin-bottom: 2.5em;
 }
 li {
-    width: 43%;
-    margin: 0 auto 1.5em;
-    font-size: 14.5px;
+  width: 43%;
+  margin: 0 auto 1.5em;
+  font-size: 14.5px;
 }
 #tribute-link {
-    text-decoration: underline;
-    color: royalblue;
+  text-decoration: underline;
+  color: #17a2b8;
 }
 #tribute-link:visited {
-    color: blueviolet;
-    background-color: transparent;
-    text-decoration: none;
+  color: purple;
+  background-color: transparent;
+  text-decoration: none;
+}
+#text-summary {
+  margin: 3em auto;
+  color: #0c0b0bda;
+  width: 42%;
+  font-size: 14.5px;
 }
 h3:last-child {
-    text-align: center;
-    padding-bottom: 2em;
-    margin-bottom: 2em;
-    letter-spacing: -0.2px;
-    text-shadow: 1px 0;
-
+  text-align: center;
+  letter-spacing: -0.2px;
+  text-shadow: 1px 0;
+  padding-bottom: 2em;
+  margin-bottom: 2em;
 }

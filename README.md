@@ -1,6 +1,6 @@
 # Responsive Web Design Projects - Build a Tribute Page
 
-## I posted my final project to here as well: https://codepen.io/_Will4/pen/LYWPzBM
+## I posted my final project to here as well: https://codepen.io/_Will4/full/qBrYajb
 
 Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/zNqgVx.
 
